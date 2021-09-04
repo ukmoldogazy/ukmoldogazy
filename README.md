@@ -1,11 +1,13 @@
 ### Hi there 👋, MOLDOGZAY
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-> I'm MOLDOGAZY from Kyrgyzstan, and I do content on Design and Development. I really enjoy learning language and frameworks like React and React Native, as well as work in 
+![image](https://user-images.githubusercontent.com/64630832/132108080-4a96408d-332f-49d0-92ff-309231d73e26.png)
+
+> I'm MOLDOGAZY from Kyrgyzstan, and I do content on Design and Development. 
+> I really enjoy learning language and frameworks like React and React Native, as well as work in 
 > WordPress.
 
-Skills: VUE JS / REACT / JS / HTML / CSS / BOOTSTRAP 
+
+#### Skills: VUE JS / REACT / JS / HTML / CSS / BOOTSTRAP 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Front End Development  
