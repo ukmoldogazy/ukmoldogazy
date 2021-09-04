@@ -2,7 +2,8 @@
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm MOLDOGAZY from Kyrgyzstan, and I do content on Design and Development. I really enjoy learning language and frameworks like React and React Native, as well as work in WordPress.
+> I'm MOLDOGAZY from Kyrgyzstan, and I do content on Design and Development. I really enjoy learning language and frameworks like React and React Native, as well as work in 
+> WordPress.
 
 Skills: VUE JS / REACT / JS / HTML / CSS / BOOTSTRAP 
 
