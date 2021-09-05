@@ -1,3 +1,5 @@
+![MOLDOGAZY's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOLDOGAZY&show_icons=true)
+
 ### Hi there 👋, I'm MOLDOGZAY
 
 > I'm MOLDOGAZY from Kyrgyzstan, and I do content on Design and Development. 
@@ -18,3 +20,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOLDOGAZY)](https://github.com/anuraghazra/github-readme-stats) ________![GitHub stats](https://github-readme-stats.vercel.app/api?username=MOLDOGAZY&show_icons=true&count_private=true) ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MOLDOGAZY) 
 ![GitHub metrics](https://metrics.lecoq.io/MOLDOGAZY)  
 ![Profile views](https://gpvc.arturio.dev/MOLDOGAZY)![GitHub followers](https://img.shields.io/github/followers/MOLDOGAZY?style=social)
+
