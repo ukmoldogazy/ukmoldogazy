@@ -19,6 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOLDOGAZY)](https://github.com/MOLDOGAZY/github-readme-stats) ________ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOLDOGAZY&theme=radical&show_icons=true)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MOLDOGAZY&repo=github-readme-stats)](https://github.com/MOLDOGAZY/portfolio)
 
 ![GitHub metrics](https://metrics.lecoq.io/MOLDOGAZY)  
 ![Profile views](https://gpvc.arturio.dev/MOLDOGAZY)![GitHub followers](https://img.shields.io/github/followers/MOLDOGAZY?style=social)
