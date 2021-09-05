@@ -1,6 +1,6 @@
 ### Hi there 👋, MOLDOGZAY
 
-<img width="1440" alt="imgGitHub" src="https://user-images.githubusercontent.com/64630832/132115792-ee9b9c2b-bf16-4a28-b1a2-9e691c84da25.png">
+<img width="1440" alt="imgGitHub" src="https://user-images.githubusercontent.com/64630832/132115812-f5a35a9e-b74a-4467-a9cc-fcfec923a830.png">
 
 > I'm MOLDOGAZY from Kyrgyzstan, and I do content on Design and Development. 
 > I really enjoy learning language and frameworks like React and React Native, as well as work in 
