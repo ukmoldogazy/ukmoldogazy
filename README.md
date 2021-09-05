@@ -1,4 +1,6 @@
 ![MOLDOGAZY's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOLDOGAZY&show_icons=true)
+![MOLDOGAZY's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOLDOGAZY&theme=radical&show_icons=true)
+
 
 ### Hi there 👋, I'm MOLDOGZAY
 
