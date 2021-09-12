@@ -22,7 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOLDOGAZY)](https://github.com/MOLDOGAZY/github-readme-stats) 
 
 
-![GitHub metrics](https://metrics.lecoq.io/MOLDOGAZY)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/MOLDOGAZY)   -->
 ![Profile views](https://gpvc.arturio.dev/MOLDOGAZY)![GitHub followers](https://img.shields.io/github/followers/MOLDOGAZY?style=social)
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
