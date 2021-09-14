@@ -8,7 +8,7 @@
 
 <img width="1440" alt="imgGitHub" src="https://user-images.githubusercontent.com/64630832/132115812-f5a35a9e-b74a-4467-a9cc-fcfec923a830.png">
 
-#### Skills: VUE JS / REACT / JS / HTML / CSS / BOOTSTRAP 
+#### Skills: JS / HTML / CSS / BOOTSTRAP 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Front End Development  
