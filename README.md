@@ -34,14 +34,14 @@
 
 
   <a href="https://in.linkedin.com/in/moldogazy">
-    <img align="left" alt="MOLDOGAZY | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="MOLDOGAZY | Linkedin" width="24px" src="https://github.com/MOLDOGAZY/MOLDOGAZY/blob/main/Linkedin.svg" />
   </a>
-  <a href="https://twitter.com/sahni_hargun">
-    <img align="left" alt="MOLDOGAZY | Twitter" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Twitter.svg" />
+  <a href="https://twitter.com/MOLDOGAZY00">
+    <img align="left" alt="MOLDOGAZY | Twitter" width="26px" src="https://github.com/MOLDOGAZY/MOLDOGAZY/blob/main/Twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/captivatingracer">
-    <img align="left" alt="MOLDOGAZY | Instagram" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Instagram.svg" />
+  <a href="https://www.instagram.com/kazy_kaby1bek0v/">
+    <img align="left" alt="MOLDOGAZY | Instagram" width="24px" src="https://github.com/MOLDOGAZY/MOLDOGAZY/blob/main/Instagram.svg" />
   </a>
-  <a href="mailto:hargunsinghsahni@gmail.com">
-    <img align="left" alt="MOLDOGAZY | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
+  <a href="mailto:moldogazy.kabylbekov.kk@gmail.com">
+    <img align="left" alt="MOLDOGAZY | Gmail" width="26px" src="https://github.com/MOLDOGAZY/MOLDOGAZY/blob/main/Gmail.svg" />
   </a>
