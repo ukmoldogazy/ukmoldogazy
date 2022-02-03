@@ -1,6 +1,6 @@
 
 
-### Hi there 👋, I'm MOLDOGZAY <img src="https://github.com/MOLDOGAZY/MOLDOGAZY/blob/main/globe.gif?raw=true" width="24px" />
+### Hi there <img src="https://github.com/MOLDOGAZY/MOLDOGAZY/blob/main/wave.gif?raw=true" width="24px" />, I'm MOLDOGZAY <img src="https://github.com/MOLDOGAZY/MOLDOGAZY/blob/main/globe.gif?raw=true" width="24px" />
 
 > I'm MOLDOGAZY from Kyrgyzstan, and I do content on Design and Development. 
 > I really enjoy learning language and frameworks like React and React Native, as well as work in 
@@ -33,3 +33,15 @@
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 
+  <a href="https://in.linkedin.com/in/moldogazy">
+    <img align="left" alt="MOLDOGAZY | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/sahni_hargun">
+    <img align="left" alt="MOLDOGAZY | Twitter" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/captivatingracer">
+    <img align="left" alt="MOLDOGAZY | Instagram" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:hargunsinghsahni@gmail.com">
+    <img align="left" alt="MOLDOGAZY | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
+  </a>
