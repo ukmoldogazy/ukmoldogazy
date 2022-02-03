@@ -6,7 +6,7 @@
 > I really enjoy learning language and frameworks like React and React Native, as well as work in 
 > WordPress.
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <img src="https://github.com/MOLDOGAZY/MOLDOGAZY/raw/main/GitHub-bg.png" />
 </p>
 
 - 🔭 I’m currently working on this page. 
