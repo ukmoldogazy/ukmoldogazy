@@ -1,6 +1,6 @@
 
 
-### Hi there 👋, I'm MOLDOGZAY
+### Hi there 👋, I'm MOLDOGZAY <img src="https://github.com/MOLDOGAZY/MOLDOGAZY/blob/main/globe.gif?raw=true" width="24px" />
 
 > I'm MOLDOGAZY from Kyrgyzstan, and I do content on Design and Development. 
 > I really enjoy learning language and frameworks like React and React Native, as well as work in 
@@ -31,3 +31,5 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+
+
