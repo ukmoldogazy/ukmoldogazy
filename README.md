@@ -2,10 +2,6 @@
 
 ### Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/MOLDOGAZY/MOLDOGAZY/blob/main/wave.gif?raw=true" width="24px" />, I'm MOLDOGZAY <img src="https://github.com/MOLDOGAZY/MOLDOGAZY/blob/main/globe.gif?raw=true" width="24px" />
 
-
-> I'm MOLDOGAZY from Kyrgyzstan, and I do content on Design and Development. 
-> I really enjoy learning language and frameworks like React and React Native, as well as work in 
-> WordPress.
 <p align="center">
   <img src="https://github.com/MOLDOGAZY/MOLDOGAZY/raw/main/GitHub-bg.png" />
 </p>
