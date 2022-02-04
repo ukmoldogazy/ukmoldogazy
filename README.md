@@ -78,3 +78,158 @@
 
  Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/MOLDOGAZY/count.svg) -->
+
+
+
+<!--==================================================================================================================================-->
+<!--webpack.config.js
+const path = require("path");
+const htmlWebpackPlugin = require("html-webpack-plugin");
+const webpack = require("webpack");
+
+module.exports = {
+  entry: ["babel-polyfill", "./src/index.js"],
+  output: {
+    path: path.resolve(__dirname, "dist"),
+    filename: "build.js",
+  },
+  resolve: {
+    extensions: [".js", ".jsx"],
+  },
+  module: {
+    rules: [
+      {
+        test: /\.(js|jsx)$/,
+        exclude: /node_modules/,
+        use: {
+          loader: "babel-loader",
+        },
+      },
+      {
+        test: /\.html$/,
+        use: [
+          {
+            loader: "html-loader",
+          },
+        ],
+      },
+      {
+        use: ["style-loader", "css-loader", "sass-loader"],
+        test: /.(css|sass|scss)$/,
+      },
+      {
+        type: "asset",
+        test: /\.(svg|jpg|png)$/,
+      },
+      {
+        test: /\.js$/,
+        enforce: "pre",
+        use: ["source-map-loader"],
+      },
+    ],
+  },
+  devServer: {
+    historyApiFallback: true,
+  },
+  plugins: [
+    new htmlWebpackPlugin({
+      template: "./public/index.html",
+      filename: "./index.html",
+    }),
+    new webpack.DefinePlugin({
+      "process.env.REACT_APP_FIREBASE_APIKEY": JSON.stringify(
+        process.env.REACT_APP_FIREBASE_APIKEY
+      ),
+      "process.env.REACT_APP_FIREBASE_AUTHDOMAIN": JSON.stringify(
+        process.env.REACT_APP_FIREBASE_AUTHDOMAIN
+      ),
+      "process.env.REACT_APP_FIREBASE_PROJECTID": JSON.stringify(
+        process.env.REACT_APP_FIREBASE_PROJECTID
+      ),
+      "process.env.REACT_APP_FIREBASE_STORAGEBUCKET": JSON.stringify(
+        process.env.REACT_APP_FIREBASE_STORAGEBUCKET
+      ),
+      "process.env.REACT_APP_FIREBASE_MESSAGINGSENDERID": JSON.stringify(
+        process.env.REACT_APP_FIREBASE_MESSAGINGSENDERID
+      ),
+      "process.env.REACT_APP_FIREBASE_APPID": JSON.stringify(
+        process.env.REACT_APP_FIREBASE_APPID
+      ),
+    }),
+  ],
+};
+-->
+
+
+
+
+<!--============================================================================================================================================-->
+<!--App.jsx
+import React, { useEffect, useState } from "react";
+// Styles
+import "./sass/index.scss";
+// Firestore
+import { collection, onSnapshot } from "firebase/firestore";
+import store from "./firebase/firebase.config";
+// Components
+import AddComponent from "./components/add.component";
+import ListComponent from "./components/list.component";
+import ConfigComponent from "./components/config.component";
+import HeaderComponent from "./components/header.component";
+import FooterComponent from "./components/footer.component";
+import MsgComponent from "./components/msg.component";
+
+// Images
+import HeaderDarkModile from "./assets/img/bg-mobile-dark.jpg";
+import HeaderDarkDesktop from "./assets/img/bg-desktop-dark.jpg";
+import HeaderLightModile from "./assets/img/bg-mobile-light.jpg";
+import HeaderLightDesktop from "./assets/img/bg-desktop-light.jpg";
+
+// Icon
+import { BiLoaderAlt } from "react-icons/bi";
+
+function App() {
+  const [Task, setTask] = useState([]);
+  const [TasksAll, setTasksAll] = useState([]);
+  const [Theme, setTheme] = useState("dark");
+  const [Id, setId] = useState(null);
+  const [CurrentFilter, setCurrentFilter] = useState("all");
+  const [Rest, setRest] = useState(false);
+  const [Loading, setLoading] = useState(true);
+  useEffect(() => {
+    onSnapshot(collection(store, "tasks"), (snapshot) => {
+      let temp = [];
+      snapshot.docs.forEach((doc) => {
+        temp.push({ ...doc.data(), id: doc.id });
+      });
+      setLoading(false);
+      // setTasks(temp);
+      setTasksAll(temp);
+      const completed = temp.filter((task) => task.completed);
+      let arrCompleted = [];
+      completed.forEach((item) => {
+        arrCompleted.push(item);
+      });
+      setCompleted(arrCompleted);
+      comsole.log(temp);
+    });
+  }, []);
+  const setCompleted = (newId) => console.log(newId);
+  return (
+    <>
+      <div className="content">
+        <HeaderComponent />
+        <AddComponent />
+        <MsgComponent />
+        <ListComponent />
+        <ConfigComponent />
+        <FooterComponent />
+      </div>
+    </>
+  );
+}
+
+export default App;
+
+
+-->
