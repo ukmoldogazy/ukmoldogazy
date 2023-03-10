@@ -1,6 +1,6 @@
 
 
-### Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/MOLDOGAZY/MOLDOGAZY/blob/main/wave.gif?raw=true" width="24px" />, I'm MOLDOGZAY <img src="https://github.com/MOLDOGAZY/MOLDOGAZY/blob/main/globe.gif?raw=true" width="24px" />
+### Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/MOLDOGAZY/MOLDOGAZY/blob/main/wave.gif?raw=true" width="24px" />, I'm MOLDOGAZY <img src="https://github.com/MOLDOGAZY/MOLDOGAZY/blob/main/globe.gif?raw=true" width="24px" />
 
 <p align="center">
   <img src="https://github.com/MOLDOGAZY/MOLDOGAZY/raw/main/GitHub-bg.png" />
