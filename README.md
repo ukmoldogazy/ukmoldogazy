@@ -6,7 +6,7 @@
   <img src="https://github.com/MOLDOGAZY/MOLDOGAZY/raw/main/GitHub-bg.png" />
 </p>
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page
 - 🌱 I’m currently learning Front End Development  
 
  
