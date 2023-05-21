@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning Front End Development  
 
- 
 
 ### Tech & Tools Preference
 
